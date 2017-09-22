@@ -1,0 +1,43 @@
+{
+  "name": "wechat-cli",
+  "version": "0.1.0",
+  "description": "wechat-cli",
+  "scripts": {
+    "lint": "gulp lint",
+    "watch": "gulp watch",
+    "generate": "gulp generate",
+    "build": "cross-env NODE_ENV=production gulp build"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.18.0",
+    "cross-env": "^5.0.5",
+    "del": "^3.0.0",
+    "eslint": "^4.5.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-json": "^1.2.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.3.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "generate-weapp-page": "^0.1.3",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-eslint": "^4.0.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-if": "^2.0.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-jsonminify": "^1.0.0",
+    "gulp-load-plugins": "^1.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-scss": "^1.4.0",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.7",
+    "inquirer": "^3.2.2",
+    "run-sequence": "^2.1.0"
+  },
+  "dependencies": {}
+}

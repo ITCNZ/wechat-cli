@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAU;EACR,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,OAAO,EAAE,KAAK;;AAEhB,SAAU;EACR,MAAM,EAAE,KAAK;EACb,YAAY,EAAE,KAAK",
+"sources": ["logs.scss"],
+"names": [],
+"file": "logs.css"
+}
