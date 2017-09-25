@@ -6,7 +6,7 @@
 # 安装依赖
 npm install
 
-# 自动生成微信目录结构
+# 生成微信目录结构
 npm run generate
 
 # 实时监控
