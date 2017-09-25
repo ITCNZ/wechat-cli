@@ -1,17 +1,1 @@
-"use strict";
-
-var UI = {
-  toast: function toast(msg, type) {
-    wx.showToast({
-      title: msg,
-      icon: type,
-      duration: 2000
-    });
-  },
-
-  laoding: function laoding() {}
-
-};
-
-module.exports = UI;
-//# sourceMappingURL=ui.js.map
+"use strict";var UI={toast:function(t,o){wx.showToast({title:t,icon:o,duration:2e3})},laoding:function(){}};module.exports=UI;

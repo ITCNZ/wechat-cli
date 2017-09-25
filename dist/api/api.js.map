@@ -1,1 +1,0 @@
-{"version":3,"sources":["api/api.js"],"names":["Banner","require","module","exports"],"mappings":";;AAAA,IAAIA,SAASC,QAAQ,aAAR,CAAb;;AAGAC,OAAOC,OAAP,GAAiB;AACfH,UAAQA;AADO,CAAjB","file":"api.js","sourcesContent":["var Banner = require('./banner.js');\n\n\nmodule.exports = {\n  Banner: Banner\n}\n"]}

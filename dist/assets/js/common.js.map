@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/js/common.js"],"names":["AA","console","log"],"mappings":";;AAAA,SAASA,EAAT,GAAc;AACbC,UAAQC,GAAR,CAAY,YAAZ;AACA;;AAEDF","file":"common.js","sourcesContent":["function AA() {\n console.log('这是一个公共js文件')\n}\n\nAA();"]}
